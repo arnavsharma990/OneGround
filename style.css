@@ -12,27 +12,27 @@
     display: flex;
     align-items: center;
     padding: 0 20px;
-    position: relative; /* Required for absolute positioning */
+    position: relative;
     color: aliceblue;
 }
 
-/* Left-aligned menu */
+
 #nav1 {
     display: flex;
     align-items: center;
     gap: 10px;
 }
 
-/* Center the title */
+
 #nav2 {
     color: beige;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    white-space: nowrap; /* Prevents text from wrapping */
+    white-space: nowrap; 
 }
 
-/* Right-aligned buttons */
+
 #nav3 {
     margin-left: auto;
     display: flex;
@@ -134,14 +134,14 @@ video{
     height: auto;
 
 }
-/* Hover effect for images with shadow */
+
 img:hover {
-    transform: translate(-50%, -50%) scale(1.4); /* Scale up on hover */
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Smooth transition */
-    box-shadow: 0px 25px 40px beige; /* Add shadow */
+    transform: translate(-50%, -50%) scale(1.4); 
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; 
+    box-shadow: 0px 25px 40px beige; 
 }
 
 #img1:hover, #img2:hover, #img3:hover {
-    transform: translate(75%, -50%) scale(1.6); /* Neutralize rotation while scaling */
-    box-shadow: 0px 25px 40px beige; /* Add shadow */
+    transform: translate(75%, -50%) scale(1.6); 
+    box-shadow: 0px 25px 40px beige; 
 }
