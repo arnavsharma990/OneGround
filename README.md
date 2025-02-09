@@ -17,7 +17,7 @@ OneGround is a fanpage that celebrates anime by providing fans with an aesthetic
 ## How to Use
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/oneground.git
+   git clone https://github.com/arnavsharma990/oneground.git
    ```
 2. Navigate to the project folder:
    ```bash
