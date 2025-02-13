@@ -25,9 +25,6 @@ OneGround is a fanpage that celebrates anime by providing fans with an aesthetic
    ```
 3. Open the `index.html` file in your browser to view the fanpage.
 
-## Demo
-[Live Demo](#) (Add your live GitHub Pages link here once deployed)
-
 ## Contributing
 Contributions are welcome! If you'd like to improve or add new features to OneGround:
 1. Fork the repository.
